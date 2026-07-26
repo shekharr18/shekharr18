@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📈 About Me:
 I’m an aspiring BCA final-year developer passionate about web development and learning new technologies. Currently working on frontend projects and looking to collaborate, grow, and build impactful solutions
 
 
